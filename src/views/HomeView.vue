@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
+    <a-button class="mt-1" type="primary" loading> Loading </a-button>
   </div>
 </template>
 
